@@ -27,3 +27,5 @@ df = pd.DataFrame(s)
 fptr = open('pub.csv', 'w')
 df.to_csv(fptr)
 fptr.close()
+
+

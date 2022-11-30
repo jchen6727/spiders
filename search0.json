@@ -1,0 +1,929 @@
+{
+  "search_metadata": {
+    "id": "6384f7491988e5433c6ec447",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eecef8470094dda2/6384f7491988e5433c6ec447.json",
+    "created_at": "2022-11-28 18:00:41 UTC",
+    "processed_at": "2022-11-28 18:00:41 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=netpyne&hl=en&num=21&as_ylo=2021&as_vis=1",
+    "raw_html_file": "https://serpapi.com/searches/eecef8470094dda2/6384f7491988e5433c6ec447.html",
+    "total_time_taken": 2.33
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "netpyne",
+    "hl": "en",
+    "num": "20",
+    "as_ylo": "2021",
+    "as_vis": "1"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 68,
+    "time_taken_displayed": 0.08,
+    "query_displayed": "netpyne"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Large-scale biophysically detailed model of somatosensory thalamocortical circuits in NetPyNE",
+      "result_id": "Cr4ZHEF16REJ",
+      "link": "https://www.biorxiv.org/content/10.1101/2022.02.03.479029.abstract",
+      "snippet": "… NetPyNE, using the data available in the Neocortical Microcircuit Collaboration Portal. NetPyNE … Despite some implementation differences, the NetPyNE model closely reproduced the …",
+      "publication_info": {
+        "summary": "FS Borges, JVS Moreira, LM Takarabe, WW Lytton… - bioRxiv, 2022 - biorxiv.org",
+        "authors": [
+          {
+            "name": "FS Borges",
+            "link": "https://scholar.google.com/citations?user=Zd1NpWcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Zd1NpWcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Zd1NpWcAAAAJ"
+          },
+          {
+            "name": "JVS Moreira",
+            "link": "https://scholar.google.com/citations?user=ScTOdMIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ScTOdMIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ScTOdMIAAAAJ"
+          },
+          {
+            "name": "WW Lytton",
+            "link": "https://scholar.google.com/citations?user=yTK0o2UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yTK0o2UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yTK0o2UAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "biorxiv.org",
+          "file_format": "PDF",
+          "link": "https://www.biorxiv.org/content/10.1101/2022.02.03.479029.full.pdf"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:Cr4ZHEF16REJ:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=11818426925679788814&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Cr4ZHEF16REJ",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=1290691690723130890&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "1290691690723130890",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=1290691690723130890&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:Cr4ZHEF16REJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3ACr4ZHEF16REJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=1290691690723130890&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "1290691690723130890",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=1290691690723130890&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Cr4ZHEF16REJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 1,
+      "title": "NetPyNE implementation and scaling of the Potjans-Diesmann cortical microcircuit model",
+      "result_id": "9uHlk5Ro9ykJ",
+      "link": "https://direct.mit.edu/neco/article-abstract/33/7/1993/101863",
+      "snippet": "… We illustrate the range of NetPyNE's analysis capabilities using the PDCM model reimplementation in NetPyNE 9. All analyses were performed on the 10 % -scaled version with 7713 …",
+      "publication_info": {
+        "summary": "C Romaro, FA Najman, WW Lytton, AC Roque… - Neural …, 2021 - direct.mit.edu",
+        "authors": [
+          {
+            "name": "FA Najman",
+            "link": "https://scholar.google.com/citations?user=j6YIabUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j6YIabUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "j6YIabUAAAAJ"
+          },
+          {
+            "name": "WW Lytton",
+            "link": "https://scholar.google.com/citations?user=yTK0o2UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yTK0o2UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yTK0o2UAAAAJ"
+          },
+          {
+            "name": "AC Roque",
+            "link": "https://scholar.google.com/citations?user=GqHWF74AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GqHWF74AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GqHWF74AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8382011/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9uHlk5Ro9ykJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8382011/",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=3024000662148342262&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "3024000662148342262",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=3024000662148342262&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:9uHlk5Ro9ykJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A9uHlk5Ro9ykJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 17,
+          "link": "https://scholar.google.com/scholar?cluster=3024000662148342262&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "3024000662148342262",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=3024000662148342262&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Biophysical Models of Minipig Right Atrial Ganglionic Plexus Principal Neurons Identified from Transcriptomics Data",
+      "result_id": "j67oKeGbVswJ",
+      "link": "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2022.36.S1.R4416",
+      "snippet": "… with it, we ran multiple simulations on the NetPyNE software to identify a single model per gene … Our electrophysiological models are available to the SPARC community in NetPyNE and …",
+      "publication_info": {
+        "summary": "S Gupta, JM Feldman, AJH Newton… - The FASEB …, 2022 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "S Gupta",
+            "link": "https://scholar.google.com/citations?user=lYRpxS8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lYRpxS8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lYRpxS8AAAAJ"
+          },
+          {
+            "name": "AJH Newton",
+            "link": "https://scholar.google.com/citations?user=F6CvFnIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F6CvFnIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F6CvFnIAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=j67oKeGbVswJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:j67oKeGbVswJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3Aj67oKeGbVswJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=14724127423107477135&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "14724127423107477135",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=14724127423107477135&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "Implementation of Intra and Extracellular Nonperiodic Scale-Free Stimulation for the NEURON Simulator",
+      "result_id": "dUW68tChMrgJ",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-08443-0_8",
+      "snippet": "… To implement all these strategies, we used the NetPyNE package and Neuron library on a colab notebook [20]. With the NetParams block from the NetPyNE package, we created a …",
+      "publication_info": {
+        "summary": "HCB Terra, FS Borges, MFD Moraes… - Latin American Workshop …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "FS Borges",
+            "link": "https://scholar.google.com/citations?user=Zd1NpWcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Zd1NpWcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Zd1NpWcAAAAJ"
+          },
+          {
+            "name": "MFD Moraes",
+            "link": "https://scholar.google.com/citations?user=LCQxXQ0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LCQxXQ0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LCQxXQ0AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=dUW68tChMrgJ"
+      }
+    },
+    {
+      "position": 4,
+      "title": "Data-driven multiscale model of macaque auditory thalamocortical circuits reproduces in vivo dynamics",
+      "result_id": "8AIBd3ZCTUIJ",
+      "link": "https://www.biorxiv.org/content/10.1101/2022.02.03.479036.abstract",
+      "snippet": "We developed a biophysically-detailed model of the macaque auditory thalamocortical circuits, including primary auditory cortex (A1), medial geniculate body (MGB) and thalamic …",
+      "publication_info": {
+        "summary": "S Dura-Bernal, EY Griffith, A Barczak, MN O'Connell… - bioRxiv, 2022 - biorxiv.org",
+        "authors": [
+          {
+            "name": "S Dura-Bernal",
+            "link": "https://scholar.google.com/citations?user=TFy7ncUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TFy7ncUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TFy7ncUAAAAJ"
+          },
+          {
+            "name": "EY Griffith",
+            "link": "https://scholar.google.com/citations?user=Gn_H1UUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Gn_H1UUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Gn_H1UUAAAAJ"
+          },
+          {
+            "name": "A Barczak",
+            "link": "https://scholar.google.com/citations?user=K3X0EWEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K3X0EWEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K3X0EWEAAAAJ"
+          },
+          {
+            "name": "MN O'Connell",
+            "link": "https://scholar.google.com/citations?user=cUTINfMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cUTINfMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "cUTINfMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "biorxiv.org",
+          "file_format": "PDF",
+          "link": "https://www.biorxiv.org/content/biorxiv/early/2022/04/29/2022.02.03.479036.full.pdf"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:8AIBd3ZCTUIJ:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=13096722212373164036&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8AIBd3ZCTUIJ",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=4777547856280093424&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "4777547856280093424",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=4777547856280093424&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:8AIBd3ZCTUIJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A8AIBd3ZCTUIJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=4777547856280093424&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "4777547856280093424",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=4777547856280093424&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:8AIBd3ZCTUIJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Evolutionary and spike-timing-dependent reinforcement learning train spiking neuronal network motor control",
+      "result_id": "clKcEt1tKiwJ",
+      "type": "Pdf",
+      "link": "https://pdfs.semanticscholar.org/cabd/83018f6f137cd0bb0d8865b21928e7c5e045.pdf",
+      "snippet": "… We use the NEURON simulator with NetPyNE to create an SNN interfaced with the CartPole environment from OpenAI’s Gym. In CartPole, the goal is to balance a vertical pole by …",
+      "publication_info": {
+        "summary": "D Haşegan, M Deible, C Earl, D D'Onofrio… - …, 2022 - pdfs.semanticscholar.org",
+        "authors": [
+          {
+            "name": "D Haşegan",
+            "link": "https://scholar.google.com/citations?user=wJd-E18AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wJd-E18AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wJd-E18AAAAJ"
+          },
+          {
+            "name": "M Deible",
+            "link": "https://scholar.google.com/citations?user=g1mLkpsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g1mLkpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "g1mLkpsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "semanticscholar.org",
+          "file_format": "PDF",
+          "link": "https://pdfs.semanticscholar.org/cabd/83018f6f137cd0bb0d8865b21928e7c5e045.pdf"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:clKcEt1tKiwJ:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=8384219768994684968&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=clKcEt1tKiwJ",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=3182476882958111346&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "3182476882958111346",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=3182476882958111346&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:clKcEt1tKiwJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AclKcEt1tKiwJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=3182476882958111346&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "3182476882958111346",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=3182476882958111346&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:clKcEt1tKiwJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 6,
+      "title": "Integration of neural architecture within a finite element framework for improved neuromusculoskeletal modeling",
+      "result_id": "ip7VgQOeBTgJ",
+      "type": "Html",
+      "link": "https://www.nature.com/articles/s41598-021-02298-9",
+      "snippet": "… A neuronal network, or motor neuron pool, was generated using NetPyNE (Networks using Python and NEURON) 35 . NetPyNE was chosen to scale a single neuron into a network of …",
+      "publication_info": {
+        "summary": "VL Volk, LD Hamilton, DR Hume, KB Shelburne… - Scientific Reports, 2021 - nature.com",
+        "authors": [
+          {
+            "name": "DR Hume",
+            "link": "https://scholar.google.com/citations?user=L8fEyzgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=L8fEyzgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L8fEyzgAAAAJ"
+          },
+          {
+            "name": "KB Shelburne",
+            "link": "https://scholar.google.com/citations?user=VawRSqQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VawRSqQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VawRSqQAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nature.com",
+          "file_format": "HTML",
+          "link": "https://www.nature.com/articles/s41598-021-02298-9"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ip7VgQOeBTgJ",
+        "html_version": "https://www.nature.com/articles/s41598-021-02298-9",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=4036806378907868810&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "4036806378907868810",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=4036806378907868810&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ip7VgQOeBTgJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3Aip7VgQOeBTgJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cluster=4036806378907868810&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "4036806378907868810",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=4036806378907868810&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Optogenetic stimulation of primary motor cortex regulates beta oscillations in the basal ganglia: A Computational study",
+      "result_id": "9PSHcEOtkwIJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1007570422004051",
+      "snippet": "… We use parallel NEURON and NetPyNE [47], [48] (www.neurosimlab.org/netpyne) to establish the M1-BG-Th model. The NetPyNE is a Python package for developing biological …",
+      "publication_info": {
+        "summary": "Y Yu, Y Fan, S Hou, Q Wang - Communications in Nonlinear Science and …, 2023 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9PSHcEOtkwIJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=185682514814694644&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "185682514814694644",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=185682514814694644&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Modelagem de microcircuito neocortical explorando o modelo de rede de Potjans-Diesmann e neurônios multicompartimentais",
+      "result_id": "wK78db8Fvb0J",
+      "type": "Pdf",
+      "link": "https://repositorio.usp.br/directbitstream/5145967d-6060-4a20-a6f2-c002deaf13ac/Amanda%20Araujo%20Silva.pdf",
+      "snippet": "… A construção do microcircuito através de sua implementação em NetPyNE, resultou em um modelo de coluna neocortical com anatomia correspondente à área somatosensorial de rato…",
+      "publication_info": {
+        "summary": "AA Silva - 2021 - repositorio.usp.br"
+      },
+      "resources": [
+        {
+          "title": "usp.br",
+          "file_format": "PDF",
+          "link": "https://repositorio.usp.br/directbitstream/5145967d-6060-4a20-a6f2-c002deaf13ac/Amanda%20Araujo%20Silva.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wK78db8Fvb0J",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:wK78db8Fvb0J:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Multiscale model of primary motor cortex circuits reproduces in vivo cell type-specific dynamics associated with behavior",
+      "result_id": "64NokEcAd6wJ",
+      "link": "https://www.biorxiv.org/content/10.1101/2022.02.03.479040.abstract",
+      "snippet": "… NetPyNE facilitates optimization and exploration of network parameters through automated … We ran batch simulations using NetPyNE’e automated SLURM job submission on San Diego …",
+      "publication_info": {
+        "summary": "S Dura-Bernal, SA Neymotin, BA Suter, J Dacre… - bioRxiv, 2022 - biorxiv.org",
+        "authors": [
+          {
+            "name": "S Dura-Bernal",
+            "link": "https://scholar.google.com/citations?user=TFy7ncUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TFy7ncUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TFy7ncUAAAAJ"
+          },
+          {
+            "name": "SA Neymotin",
+            "link": "https://scholar.google.com/citations?user=CTeS-SsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CTeS-SsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CTeS-SsAAAAJ"
+          },
+          {
+            "name": "BA Suter",
+            "link": "https://scholar.google.com/citations?user=aA3ZvBkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aA3ZvBkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aA3ZvBkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "biorxiv.org",
+          "file_format": "HTML",
+          "link": "https://www.biorxiv.org/content/10.1101/2022.02.03.479040.full"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=64NokEcAd6wJ",
+        "html_version": "https://www.biorxiv.org/content/10.1101/2022.02.03.479040.full",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=12427402004117619691&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "12427402004117619691",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=12427402004117619691&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:64NokEcAd6wJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A64NokEcAd6wJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12427402004117619691&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "12427402004117619691",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=12427402004117619691&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:64NokEcAd6wJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 10,
+      "title": "Pre-stimulus neuronal phase correlates of conscious visual perception in threshold stimuli detection tasks",
+      "result_id": "ZA76MwGwwV4J",
+      "link": "https://aaltodoc.aalto.fi/handle/123456789/112472",
+      "snippet": "The predictive nature of the pre-stimulus phase of neuronal oscillations in conscious visual perception has remained elusive and controversial, though evidence is leaning toward …",
+      "publication_info": {
+        "summary": "J Juvonen - 2022 - aaltodoc.aalto.fi"
+      },
+      "resources": [
+        {
+          "title": "aalto.fi",
+          "file_format": "PDF",
+          "link": "https://aaltodoc.aalto.fi/bitstream/handle/123456789/112472/master_Juvonen_Joonas_2022.pdf?sequence=1&isAllowed=y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ZA76MwGwwV4J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:ZA76MwGwwV4J:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AZA76MwGwwV4J%3Ascholar.google.com%2F",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:ZA76MwGwwV4J:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 11,
+      "title": "NEST Desktop, an Educational Application for Neuroscience",
+      "result_id": "JZjGvRJIhpUJ",
+      "type": "Html",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8638679/",
+      "snippet": "… - Line 353: I am not sure those 2 features make NEST Desktop unique, as for example the NetPyNE GUI also uses a standard simulation engine as back end (NEURON), and can import …",
+      "publication_info": {
+        "summary": "S Spreizer, J Senk, S Rotter, M Diesmann, B Weyers - Eneuro, 2021 - ncbi.nlm.nih.gov",
+        "authors": [
+          {
+            "name": "J Senk",
+            "link": "https://scholar.google.com/citations?user=LxMQz3EAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LxMQz3EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LxMQz3EAAAAJ"
+          },
+          {
+            "name": "S Rotter",
+            "link": "https://scholar.google.com/citations?user=pEHuJrgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pEHuJrgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pEHuJrgAAAAJ"
+          },
+          {
+            "name": "B Weyers",
+            "link": "https://scholar.google.com/citations?user=L7JClToAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=L7JClToAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "L7JClToAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8638679/"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:JZjGvRJIhpUJ:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=14726226798392393388&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=JZjGvRJIhpUJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8638679/",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=10774378403861010469&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "10774378403861010469",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=10774378403861010469&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:JZjGvRJIhpUJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AJZjGvRJIhpUJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=10774378403861010469&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "10774378403861010469",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=10774378403861010469&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "title": "Model descriptions in neuroscience: computational performance and collaboration",
+      "result_id": "dSJ6Y8C76a0J",
+      "type": "Pdf",
+      "link": "https://hal.archives-ouvertes.fr/hal-03586671/file/Model_descriptions_in_computational_neuroscience__mbox_supercomputers.pdf",
+      "snippet": "… NetPyNE NetPyNE represents information about a given population of cells in a nested … It does not appear to be possible in NetPyNE to explicitly specify the position of each neuron…",
+      "publication_info": {
+        "summary": "P Garcia-Rodriguez, AP Davison, L Sharma… - 2022 - hal.archives-ouvertes.fr",
+        "authors": [
+          {
+            "name": "AP Davison",
+            "link": "https://scholar.google.com/citations?user=a_sFeLwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=a_sFeLwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "a_sFeLwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "archives-ouvertes.fr",
+          "file_format": "PDF",
+          "link": "https://hal.archives-ouvertes.fr/hal-03586671/file/Model_descriptions_in_computational_neuroscience__mbox_supercomputers.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=dSJ6Y8C76a0J",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:dSJ6Y8C76a0J:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AdSJ6Y8C76a0J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12531753873112179317&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "12531753873112179317",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=12531753873112179317&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:dSJ6Y8C76a0J:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 13,
+      "title": "Neuro4PD: An Initial Neurorobotics Model of Parkinson's Disease",
+      "result_id": "XxDmhEpz79YJ",
+      "type": "Html",
+      "link": "https://www.frontiersin.org/articles/10.3389/fnbot.2021.640449/full",
+      "snippet": "… We decided to use the Robot Operating System (ROS) to create a bridge between NetPyNE … Thus, the model implemented on NetPyNE could be simulated in NEURON and, in parallel, …",
+      "publication_info": {
+        "summary": "JM Pimentel, RC Moioli, MFP De Araujo… - Frontiers in …, 2021 - frontiersin.org",
+        "authors": [
+          {
+            "name": "JM Pimentel",
+            "link": "https://scholar.google.com/citations?user=u9pbUH8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=u9pbUH8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u9pbUH8AAAAJ"
+          },
+          {
+            "name": "RC Moioli",
+            "link": "https://scholar.google.com/citations?user=R1_BPtkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R1_BPtkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R1_BPtkAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "frontiersin.org",
+          "file_format": "HTML",
+          "link": "https://www.frontiersin.org/articles/10.3389/fnbot.2021.640449/full"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=XxDmhEpz79YJ",
+        "html_version": "https://www.frontiersin.org/articles/10.3389/fnbot.2021.640449/full",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=15487724407444869215&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "15487724407444869215",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=15487724407444869215&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:XxDmhEpz79YJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AXxDmhEpz79YJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 13,
+          "link": "https://scholar.google.com/scholar?cluster=15487724407444869215&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "15487724407444869215",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=15487724407444869215&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:XxDmhEpz79YJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 14,
+      "title": "Cortical representation of touch in silico",
+      "result_id": "aFM1s-7Hae0J",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s12021-022-09576-5",
+      "snippet": "With its six layers and~ 12,000 neurons, a cortical column is a complex network whose function is plausibly greater than the sum of its constituents’. Functional characterization of its …",
+      "publication_info": {
+        "summary": "C Huang, F Zeldenrust, T Celikel - Neuroinformatics, 2022 - Springer",
+        "authors": [
+          {
+            "name": "F Zeldenrust",
+            "link": "https://scholar.google.com/citations?user=xkSxPpsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xkSxPpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xkSxPpsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s12021-022-09576-5"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=aFM1s-7Hae0J",
+        "html_version": "https://link.springer.com/article/10.1007/s12021-022-09576-5",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=17107424487566300008&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "17107424487566300008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=17107424487566300008&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aFM1s-7Hae0J:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AaFM1s-7Hae0J%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 9,
+          "link": "https://scholar.google.com/scholar?cluster=17107424487566300008&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "17107424487566300008",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=17107424487566300008&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "title": "Connectivity concepts in neuronal network modeling",
+      "result_id": "R3-nGBJToLAJ",
+      "type": "Html",
+      "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010086",
+      "snippet": "… NetPyNE is a Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biological … The information here pertains to NetPyNE version 1.0. …",
+      "publication_info": {
+        "summary": "J Senk, B Kriener, M Djurfeldt, N Voges… - PLoS computational …, 2022 - journals.plos.org",
+        "authors": [
+          {
+            "name": "J Senk",
+            "link": "https://scholar.google.com/citations?user=LxMQz3EAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LxMQz3EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LxMQz3EAAAAJ"
+          },
+          {
+            "name": "M Djurfeldt",
+            "link": "https://scholar.google.com/citations?user=SwCaGkAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SwCaGkAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SwCaGkAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "plos.org",
+          "file_format": "HTML",
+          "link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010086"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=R3-nGBJToLAJ",
+        "html_version": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010086",
+        "cited_by": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cites=12727263884137168711&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "12727263884137168711",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=12727263884137168711&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:R3-nGBJToLAJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AR3-nGBJToLAJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=12727263884137168711&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "12727263884137168711",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=12727263884137168711&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:R3-nGBJToLAJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 16,
+      "title": "NEST Desktop, an Educational Application for Neuroscience",
+      "result_id": "6RpRa6sjh2AJ",
+      "link": "https://www.eneuro.org/content/eneuro/8/6/ENEURO.0274-21.2021.full-text.pdf",
+      "snippet": "Simulation software for spiking neuronal network models matured in the past decades regarding performance and flexibility. But the entry barrier remains high for students and early …",
+      "publication_info": {
+        "summary": "B Weyers - 2021 - eneuro.org"
+      },
+      "resources": [
+        {
+          "title": "fz-juelich.de",
+          "file_format": "PDF",
+          "link": "https://juser.fz-juelich.de/record/903059/files/ENEURO.0274-21.2021.full.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=6RpRa6sjh2AJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:6RpRa6sjh2AJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A6RpRa6sjh2AJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6955567368643877609&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "6955567368643877609",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=6955567368643877609&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "title": "NEMAR: An open access data, tools, and compute resource operating on NeuroElectroMagnetic data",
+      "result_id": "yvQNIk2i1rIJ",
+      "link": "https://arxiv.org/abs/2203.02568",
+      "snippet": "To take advantage of recent and ongoing advances in large-scale computational methods, and to preserve the scientific data created by publicly funded research projects, data archives …",
+      "publication_info": {
+        "summary": "A Delorme, D Truong, C Youn, S Sivagnanam… - arXiv preprint arXiv …, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "A Delorme",
+            "link": "https://scholar.google.com/citations?user=Wmxh4LkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Wmxh4LkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Wmxh4LkAAAAJ"
+          },
+          {
+            "name": "D Truong",
+            "link": "https://scholar.google.com/citations?user=PssCV58AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PssCV58AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PssCV58AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2203.02568"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=yvQNIk2i1rIJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:yvQNIk2i1rIJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AyvQNIk2i1rIJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=12886665835934774474&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "12886665835934774474",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=12886665835934774474&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yvQNIk2i1rIJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 18,
+      "title": "Multiscale computer model of the spinal dorsal horn reveals changes in network processing associated with chronic pain",
+      "result_id": "SRrshcovHiAJ",
+      "link": "https://www.jneurosci.org/content/42/15/3133.abstract",
+      "snippet": "… Model building, parameter optimization, and some of the model analysis were also performed using NetPyNE 0.9.7. The network consisted of 409 neurons from 14 population subtypes. …",
+      "publication_info": {
+        "summary": "L Medlock, K Sekiguchi, S Hong… - Journal of …, 2022 - Soc Neuroscience",
+        "authors": [
+          {
+            "name": "L Medlock",
+            "link": "https://scholar.google.com/citations?user=Y-P6DJkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y-P6DJkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y-P6DJkAAAAJ"
+          },
+          {
+            "name": "S Hong",
+            "link": "https://scholar.google.com/citations?user=SrfVgmsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SrfVgmsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SrfVgmsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "jneurosci.org",
+          "file_format": "PDF",
+          "link": "https://www.jneurosci.org/content/jneuro/42/15/3133.full.pdf"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:SRrshcovHiAJ:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=3852656780084723619&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=SRrshcovHiAJ",
+        "cited_by": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cites=2314339805391755849&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "2314339805391755849",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=2314339805391755849&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:SRrshcovHiAJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3ASRrshcovHiAJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=2314339805391755849&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "2314339805391755849",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=2314339805391755849&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "title": "In silico assessment of electrophysiological neuronal recordings mediated by magnetoelectric nanoparticles",
+      "result_id": "rBTkB9YoCAgJ",
+      "type": "Html",
+      "link": "https://www.nature.com/articles/s41598-022-12303-4",
+      "snippet": "… Electric field vectors were computed as the gradient of simulated extracellular voltage, and open-source Python libraries LFPy 119 and NetPyNE 120 were used for simulations of …",
+      "publication_info": {
+        "summary": "I Bok, I Haber, X Qu, A Hai - Scientific Reports, 2022 - nature.com",
+        "authors": [
+          {
+            "name": "I Bok",
+            "link": "https://scholar.google.com/citations?user=A-24RUAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A-24RUAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A-24RUAAAAAJ"
+          },
+          {
+            "name": "A Hai",
+            "link": "https://scholar.google.com/citations?user=ABEswIsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ABEswIsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ABEswIsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nature.com",
+          "file_format": "HTML",
+          "link": "https://www.nature.com/articles/s41598-022-12303-4"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rBTkB9YoCAgJ",
+        "html_version": "https://www.nature.com/articles/s41598-022-12303-4",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=578757451837609132&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "578757451837609132",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=578757451837609132&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:rBTkB9YoCAgJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3ArBTkB9YoCAgJ%3Ascholar.google.com%2F",
+        "versions": {
+          "total": 4,
+          "link": "https://scholar.google.com/scholar?cluster=578757451837609132&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "578757451837609132",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=578757451837609132&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://scholar.google.com/scholar?start=20&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+    "other_pages": {
+      "2": "https://scholar.google.com/scholar?start=20&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+      "3": "https://scholar.google.com/scholar?start=40&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+      "4": "https://scholar.google.com/scholar?start=60&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=20",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=20",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=20",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=40",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=60"
+    }
+  }
+}

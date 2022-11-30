@@ -18,7 +18,7 @@ for entry in entries:
     d['snippet'] = entry['snippet']
     #resources = entry['resources']
     clink = entry['inline_links']['serpapi_cite_link']
-    rcite = requests.get(clink, params={'api_key': serpkey}) #HIGH COST REQUEST
-    d['cite'] = rcite.json()
+#    rcite = requests.get(clink, params={'api_key': serpkey}) # -> costs 1 API call
+#    d['cite'] = rcite.json()
     d['all'] = entry
     pubdata.append(d)

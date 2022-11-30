@@ -1,0 +1,845 @@
+{
+  "search_metadata": {
+    "id": "6384fafb1baebb0a64ddac65",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b2ba38718130015f/6384fafb1baebb0a64ddac65.json",
+    "created_at": "2022-11-28 18:16:27 UTC",
+    "processed_at": "2022-11-28 18:16:27 UTC",
+    "google_scholar_url": "https://scholar.google.com/scholar?q=netpyne&hl=en&start=20&num=21&as_ylo=2021&as_sdt=0,11&as_vis=1",
+    "raw_html_file": "https://serpapi.com/searches/b2ba38718130015f/6384fafb1baebb0a64ddac65.html",
+    "total_time_taken": 0.41
+  },
+  "search_parameters": {
+    "engine": "google_scholar",
+    "q": "netpyne",
+    "hl": "en",
+    "start": 20,
+    "num": "20",
+    "as_ylo": "2021",
+    "as_sdt": "0,11",
+    "as_vis": "1"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "total_results": 68,
+    "page_number": 2,
+    "time_taken_displayed": 0.03,
+    "query_displayed": "netpyne"
+  },
+  "organic_results": [
+    {
+      "position": 0,
+      "title": "Multiscale Model of Primary Motor Cortex Circuits Predicts in vivo Cell Type-Specific, Behavioral State-Dependent Dynamics",
+      "result_id": "kVZVtJLluIMJ",
+      "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4102629",
+      "snippet": "Understanding cortical function requires studying multiple scales: molecular, cellular, circuit and behavior. We developed a biophysically detailed multiscale model of mouse primary …",
+      "publication_info": {
+        "summary": "S Dura-Bernal, SA Neymotin, BA Suter, J Dacre… - Behavioral State … - papers.ssrn.com",
+        "authors": [
+          {
+            "name": "S Dura-Bernal",
+            "link": "https://scholar.google.com/citations?user=TFy7ncUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TFy7ncUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TFy7ncUAAAAJ"
+          },
+          {
+            "name": "SA Neymotin",
+            "link": "https://scholar.google.com/citations?user=CTeS-SsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CTeS-SsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CTeS-SsAAAAJ"
+          },
+          {
+            "name": "BA Suter",
+            "link": "https://scholar.google.com/citations?user=aA3ZvBkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aA3ZvBkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aA3ZvBkAAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=kVZVtJLluIMJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:kVZVtJLluIMJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AkVZVtJLluIMJ%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 1,
+      "title": "The quest for multiscale brain modeling",
+      "result_id": "3moAwcOI4esJ",
+      "type": "Html",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0166223622001254",
+      "snippet": "Addressing the multiscale organization of the brain, which is fundamental to the dynamic repertoire of the organ, remains challenging. In principle, it should be possible to model …",
+      "publication_info": {
+        "summary": "E D'Angelo, V Jirsa - Trends in Neurosciences, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "E D'Angelo",
+            "link": "https://scholar.google.com/citations?user=ZAFulUQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZAFulUQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZAFulUQAAAAJ"
+          },
+          {
+            "name": "V Jirsa",
+            "link": "https://scholar.google.com/citations?user=0ZVdLpMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0ZVdLpMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0ZVdLpMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "sciencedirect.com",
+          "file_format": "HTML",
+          "link": "https://www.sciencedirect.com/science/article/pii/S0166223622001254"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=3moAwcOI4esJ",
+        "html_version": "https://www.sciencedirect.com/science/article/pii/S0166223622001254",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=16997016843010992862&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "16997016843010992862",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=16997016843010992862&engine=google_scholar&hl=en&num=20"
+        },
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=16997016843010992862&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "16997016843010992862",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=16997016843010992862&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "Multiscale computer model of the spinal dorsal horn reveals changes in network processing associated with chronic pain",
+      "result_id": "d17dxiCPs34J",
+      "link": "https://www.biorxiv.org/content/10.1101/2021.06.09.447785.abstract",
+      "snippet": "… Model building, parameter optimization, and some of the model analysis were also performed using NetPyNE 0.9.7. The network consisted of 409 neurons from 14 population subtypes. …",
+      "publication_info": {
+        "summary": "L Medlock, K Sekiguchi, S Hong, S Dura-Bernal… - bioRxiv, 2022 - biorxiv.org",
+        "authors": [
+          {
+            "name": "S Dura-Bernal",
+            "link": "https://scholar.google.com/citations?user=TFy7ncUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TFy7ncUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TFy7ncUAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "biorxiv.org",
+          "file_format": "PDF",
+          "link": "https://www.biorxiv.org/content/10.1101/2021.06.09.447785.full.pdf"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:d17dxiCPs34J:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=12889095560999774272&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=d17dxiCPs34J",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=9129798240548249207&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "9129798240548249207",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=9129798240548249207&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:d17dxiCPs34J:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3Ad17dxiCPs34J%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=9129798240548249207&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "9129798240548249207",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=9129798240548249207&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:d17dxiCPs34J:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Modernizing the NEURON simulator for sustainability, portability, and performance",
+      "result_id": "7tGn0hgM2mAJ",
+      "type": "Html",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272742/",
+      "snippet": "… Here we report on the integration of NetPyNE with the CoreNEURON solver, thus taking full … NEURON and CoreNEURON CPU measurements of the M1 NetPyNE benchmarks were run …",
+      "publication_info": {
+        "summary": "O Awile, P Kumbhar, N Cornu… - Frontiers in …, 2022 - ncbi.nlm.nih.gov",
+        "authors": [
+          {
+            "name": "O Awile",
+            "link": "https://scholar.google.com/citations?user=pjb23CUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pjb23CUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pjb23CUAAAAJ"
+          },
+          {
+            "name": "P Kumbhar",
+            "link": "https://scholar.google.com/citations?user=VONpq8oAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VONpq8oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VONpq8oAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272742/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=7tGn0hgM2mAJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272742/",
+        "cited_by": {
+          "total": 1,
+          "link": "https://scholar.google.com/scholar?cites=6978903873316966894&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "6978903873316966894",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6978903873316966894&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:7tGn0hgM2mAJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A7tGn0hgM2mAJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6978903873316966894&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "6978903873316966894",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=6978903873316966894&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "BrainPy: a flexible, integrative, efficient, and extensible framework towards general-purpose brain dynamics programming",
+      "result_id": "sFNCxOTXWu0J",
+      "link": "https://www.biorxiv.org/content/10.1101/2022.10.28.514024.abstract",
+      "snippet": "The neural mechanisms underlying brain functions are extremely complicated. Brain dynamics modeling is an indispensable tool for elucidating these mechanisms by modeling the …",
+      "publication_info": {
+        "summary": "C Wang, X Chen, T Zhang, S Wu - bioRxiv, 2022 - biorxiv.org"
+      },
+      "resources": [
+        {
+          "title": "biorxiv.org",
+          "file_format": "PDF",
+          "link": "https://www.biorxiv.org/content/10.1101/2022.10.28.514024.full.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=sFNCxOTXWu0J",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=17103219912438076336&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "17103219912438076336",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=17103219912438076336&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:sFNCxOTXWu0J:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 5,
+      "title": "Conductance-based models and the fragmentation problem: A case study based on hippocampal CA1 pyramidal cell models and epilepsy",
+      "result_id": "eqEWMUZa4qwJ",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1525505019310819",
+      "snippet": "… NeuroML and LEMS [40,41], two languages for describing highly detailed neural and network models that can be simulated using NEURON and other neurosimulators, NetPyNE [42], …",
+      "publication_info": {
+        "summary": "J Tejada, AC Roque - Epilepsy & Behavior, 2021 - Elsevier",
+        "authors": [
+          {
+            "name": "J Tejada",
+            "link": "https://scholar.google.com/citations?user=nWL7hWUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nWL7hWUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nWL7hWUAAAAJ"
+          },
+          {
+            "name": "AC Roque",
+            "link": "https://scholar.google.com/citations?user=GqHWF74AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GqHWF74AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GqHWF74AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=eqEWMUZa4qwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:eqEWMUZa4qwJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AeqEWMUZa4qwJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=12457618776777990522&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "12457618776777990522",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=12457618776777990522&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "DEFENSE COMMITTEE AND FINAL READING APPROVALS",
+      "result_id": "QYZ3mKZD0FwJ",
+      "link": "https://search.proquest.com/openview/6c19353c1b2eb90e4408306375c5df45/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y",
+      "snippet": "Neurodegenerative and neurodevelopmental disorders are a group of conditions that stem from irregularities in the nervous system that lead to complications in function and movement. …",
+      "publication_info": {
+        "summary": "VL Volk - 2022 - search.proquest.com"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=QYZ3mKZD0FwJ",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=6687919829446788673&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "6687919829446788673",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=6687919829446788673&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "A neurorobotics approach to behaviour selection based on human activity recognition",
+      "result_id": "J4XN0zDtOgEJ",
+      "link": "https://link.springer.com/article/10.1007/s11571-022-09886-z",
+      "snippet": "Behaviour selection has been an active research topic for robotics, in particular in the field of human–robot interaction. For a robot to interact autonomously and effectively with humans, …",
+      "publication_info": {
+        "summary": "CM Ranieri, RC Moioli, PA Vargas… - Cognitive …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "CM Ranieri",
+            "link": "https://scholar.google.com/citations?user=kNp_e_8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kNp_e_8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kNp_e_8AAAAJ"
+          },
+          {
+            "name": "RC Moioli",
+            "link": "https://scholar.google.com/citations?user=R1_BPtkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R1_BPtkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R1_BPtkAAAAJ"
+          },
+          {
+            "name": "PA Vargas",
+            "link": "https://scholar.google.com/citations?user=4BrUvEsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4BrUvEsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4BrUvEsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2107.12540"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=J4XN0zDtOgEJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:J4XN0zDtOgEJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AJ4XN0zDtOgEJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cluster=88643936654820647&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "88643936654820647",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=88643936654820647&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Quantitative systems pharmacology in neuroscience: Novel methodologies and technologies",
+      "result_id": "DujNSIbQPY4J",
+      "link": "https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12607",
+      "snippet": "… For example, a tool for multiscale modeling of brain circuits, NetPyNE, and a repository for standardized models of neurons and circuits, Open Source Brain, were recently developed. …",
+      "publication_info": {
+        "summary": "P Bloomingdale, T Karelina, M Cirit… - CPT …, 2021 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "P Bloomingdale",
+            "link": "https://scholar.google.com/citations?user=o2Iwf7QAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o2Iwf7QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o2Iwf7QAAAAJ"
+          },
+          {
+            "name": "M Cirit",
+            "link": "https://scholar.google.com/citations?user=am01rc8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=am01rc8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "am01rc8AAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "wiley.com",
+          "file_format": "PDF",
+          "link": "https://ascpt.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/psp4.12607"
+        },
+        {
+          "title": "Full View",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:DujNSIbQPY4J:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=17672086630586119899&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=DujNSIbQPY4J",
+        "cited_by": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cites=10249577602130765838&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "10249577602130765838",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=10249577602130765838&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:DujNSIbQPY4J:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3ADujNSIbQPY4J%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 8,
+          "link": "https://scholar.google.com/scholar?cluster=10249577602130765838&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "10249577602130765838",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=10249577602130765838&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "PymoNNto: A Flexible Modular Toolbox for Designing Brain-Inspired Neural Networks",
+      "result_id": "mLMjnKEnvCwJ",
+      "type": "Pdf",
+      "link": "https://www.frontiersin.org/articles/10.3389/fninf.2021.715131/pdf",
+      "snippet": "The Python Modular Neural Network Toolbox (PymoNNto) provides a versatile and adaptable Python-based framework to develop and investigate brain-inspired neural networks. In …",
+      "publication_info": {
+        "summary": "M Vieth, TM Stöber, J Triesch - Frontiers in Neuroinformatics, 2021 - frontiersin.org",
+        "authors": [
+          {
+            "name": "TM Stöber",
+            "link": "https://scholar.google.com/citations?user=JghW0NoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JghW0NoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JghW0NoAAAAJ"
+          },
+          {
+            "name": "J Triesch",
+            "link": "https://scholar.google.com/citations?user=AgEdsugAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AgEdsugAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AgEdsugAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "frontiersin.org",
+          "file_format": "PDF",
+          "link": "https://www.frontiersin.org/articles/10.3389/fninf.2021.715131/pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=mLMjnKEnvCwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mLMjnKEnvCwJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AmLMjnKEnvCwJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=3223495008353235864&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "3223495008353235864",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=3223495008353235864&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:mLMjnKEnvCwJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 10,
+      "title": "Neural response of a Neuron population: A mathematical modelling approach",
+      "result_id": "0UT9RK4W5TkJ",
+      "link": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1577565",
+      "snippet": "The brain–the organ that allows us to be aware of our surroundings–consists of a complex network of neurons, which seemingly allows the human brain to be able of abstract thinking, …",
+      "publication_info": {
+        "summary": "H Podéus - 2021 - diva-portal.org"
+      },
+      "resources": [
+        {
+          "title": "diva-portal.org",
+          "file_format": "PDF",
+          "link": "https://www.diva-portal.org/smash/get/diva2:1577565/FULLTEXT01.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0UT9RK4W5TkJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:0UT9RK4W5TkJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A0UT9RK4W5TkJ%3Ascholar.google.com%2F&start=20",
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:0UT9RK4W5TkJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 11,
+      "title": "neurolib: a simulation framework for whole-brain neural mass modeling",
+      "result_id": "UhCmAhHNDFUJ",
+      "type": "Html",
+      "link": "https://link.springer.com/article/10.1007/s12559-021-09931-9",
+      "snippet": "… useful for simulating large networks of spiking neurons, with a focus on point neurons in the case of NEST and Brian, or morphologically extended neurons in the case of NetPyNE and …",
+      "publication_info": {
+        "summary": "C Cakan, N Jajcay, K Obermayer - Cognitive Computation, 2021 - Springer",
+        "authors": [
+          {
+            "name": "C Cakan",
+            "link": "https://scholar.google.com/citations?user=WcS2RxwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WcS2RxwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WcS2RxwAAAAJ"
+          },
+          {
+            "name": "N Jajcay",
+            "link": "https://scholar.google.com/citations?user=kynXndQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kynXndQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kynXndQAAAAJ"
+          },
+          {
+            "name": "K Obermayer",
+            "link": "https://scholar.google.com/citations?user=pGKzaMMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pGKzaMMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pGKzaMMAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "springer.com",
+          "file_format": "HTML",
+          "link": "https://link.springer.com/article/10.1007/s12559-021-09931-9"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=UhCmAhHNDFUJ",
+        "html_version": "https://link.springer.com/article/10.1007/s12559-021-09931-9",
+        "cited_by": {
+          "total": 6,
+          "link": "https://scholar.google.com/scholar?cites=6128498665886978130&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "6128498665886978130",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=6128498665886978130&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:UhCmAhHNDFUJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AUhCmAhHNDFUJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 7,
+          "link": "https://scholar.google.com/scholar?cluster=6128498665886978130&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "6128498665886978130",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=6128498665886978130&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "title": "Scaffold modelling captures the structure-function-dynamics relationship in brain microcircuits",
+      "result_id": "lZHdt8U5VnAJ",
+      "link": "https://www.biorxiv.org/content/10.1101/2021.07.30.454314.abstract",
+      "snippet": "Modelling brain networks with complex configuration and cellular properties requires a set of neuroinformatic tools and an organized staged workflow. We have therefore developed the …",
+      "publication_info": {
+        "summary": "R De Schepper, A Geminiani, S Masoli, MF Rizza… - bioRxiv, 2021 - biorxiv.org",
+        "authors": [
+          {
+            "name": "A Geminiani",
+            "link": "https://scholar.google.com/citations?user=q0TrQkkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q0TrQkkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "q0TrQkkAAAAJ"
+          },
+          {
+            "name": "S Masoli",
+            "link": "https://scholar.google.com/citations?user=qb8LxFwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qb8LxFwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qb8LxFwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "biorxiv.org",
+          "file_format": "PDF",
+          "link": "https://www.biorxiv.org/content/biorxiv/early/2021/08/01/2021.07.30.454314.full.pdf"
+        },
+        {
+          "title": "Free from Publisher",
+          "link": "https://scholar.google.com/scholar?output=instlink&q=info:lZHdt8U5VnAJ:scholar.google.com/&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1&scillfp=17162188811176928005&oi=lle"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=lZHdt8U5VnAJ",
+        "cited_by": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cites=8094720901601137045&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "8094720901601137045",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=8094720901601137045&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:lZHdt8U5VnAJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AlZHdt8U5VnAJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=8094720901601137045&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "8094720901601137045",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=8094720901601137045&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lZHdt8U5VnAJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 13,
+      "title": "Training spiking neuronal networks to perform motor control using reinforcement and evolutionary learning",
+      "result_id": "lIo6Fj7NUZAJ",
+      "link": "https://europepmc.org/article/pmc/pmc9563231",
+      "snippet": "… connected network using the NetPyNE package that further coordinates the network simulation environment. The integration of the CartPole environment and the NetPyNE network was …",
+      "publication_info": {
+        "summary": "D Haşegan, M Deible, C Earl, D D'Onofrio… - Frontiers in …, 2022 - europepmc.org",
+        "authors": [
+          {
+            "name": "D Haşegan",
+            "link": "https://scholar.google.com/citations?user=wJd-E18AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wJd-E18AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wJd-E18AAAAJ"
+          },
+          {
+            "name": "M Deible",
+            "link": "https://scholar.google.com/citations?user=g1mLkpsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g1mLkpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "g1mLkpsAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "europepmc.org",
+          "file_format": "HTML",
+          "link": "https://europepmc.org/articles/pmc9563231/bin/data_sheet_1.docx"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=lIo6Fj7NUZAJ",
+        "html_version": "https://europepmc.org/articles/pmc9563231/bin/data_sheet_1.docx",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=10399318681119787668&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "10399318681119787668",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=10399318681119787668&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:lIo6Fj7NUZAJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 14,
+      "title": "Condition Integration Memory Network: An Interpretation of the Meaning of the Neuronal Design",
+      "result_id": "m3jkoLLIRfwJ",
+      "link": "https://arxiv.org/abs/2106.05181",
+      "snippet": "Understanding the basic operational logics of the nervous system is essential to advancing neuroscientific research. However, theoretical efforts to tackle this fundamental problem are …",
+      "publication_info": {
+        "summary": "C Qian - arXiv preprint arXiv:2106.05181, 2021 - arxiv.org"
+      },
+      "resources": [
+        {
+          "title": "arxiv.org",
+          "file_format": "PDF",
+          "link": "https://arxiv.org/pdf/2106.05181"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=m3jkoLLIRfwJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:m3jkoLLIRfwJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3Am3jkoLLIRfwJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=18178156140479936667&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "18178156140479936667",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=18178156140479936667&engine=google_scholar&hl=en&num=20"
+        },
+        "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:m3jkoLLIRfwJ:scholar.google.com/+netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+      }
+    },
+    {
+      "position": 15,
+      "title": "On the prediction of neuronal microscale topology descriptors based on mesoscale recordings",
+      "result_id": "f1HhVE1j5EcJ",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15417",
+      "snippet": "The brain possesses structural and functional hierarchical architectures organized over multiple scales. Considering that functional recordings commonly focused on a single spatial …",
+      "publication_info": {
+        "summary": "M Bonzanni, DL Kaplan - European Journal of Neuroscience, 2021 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "M Bonzanni",
+            "link": "https://scholar.google.com/citations?user=BRwmChkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BRwmChkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BRwmChkAAAAJ"
+          },
+          {
+            "name": "DL Kaplan",
+            "link": "https://scholar.google.com/citations?user=k0u6UIAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=k0u6UIAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "k0u6UIAAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "researchgate.net",
+          "file_format": "PDF",
+          "link": "https://www.researchgate.net/profile/Mattia-Bonzanni/publication/353761459_On_the_prediction_of_neuronal_microscale_topology_descriptors_based_on_mesoscale_recordings/links/6123a2a7232f955865a45554/On-the-prediction-of-neuronal-microscale-topology-descriptors-based-on-mesoscale-recordings.pdf"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=f1HhVE1j5EcJ",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:f1HhVE1j5EcJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3Af1HhVE1j5EcJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 5,
+          "link": "https://scholar.google.com/scholar?cluster=5180374655170597247&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "5180374655170597247",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=5180374655170597247&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "title": "EDEN: A high-performance, general-purpose, NeuroML-based neural simulator",
+      "result_id": "mUTS6_YHA3AJ",
+      "type": "Html",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9167055/",
+      "snippet": "… The original M1 network was generated at runtime and loaded into NEURON through NetPyNE, which uses the simulator's Python API. The MOD file for the Izhikevich cell model was …",
+      "publication_info": {
+        "summary": "S Panagiotou, H Sidiropoulos, D Soudris… - Frontiers in …, 2022 - ncbi.nlm.nih.gov",
+        "authors": [
+          {
+            "name": "S Panagiotou",
+            "link": "https://scholar.google.com/citations?user=8XdZ5jUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8XdZ5jUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8XdZ5jUAAAAJ"
+          },
+          {
+            "name": "H Sidiropoulos",
+            "link": "https://scholar.google.com/citations?user=9coBZQcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9coBZQcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9coBZQcAAAAJ"
+          },
+          {
+            "name": "D Soudris",
+            "link": "https://scholar.google.com/citations?user=lWuTmpEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lWuTmpEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lWuTmpEAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nih.gov",
+          "file_format": "HTML",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9167055/"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=mUTS6_YHA3AJ",
+        "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9167055/",
+        "cited_by": {
+          "total": 2,
+          "link": "https://scholar.google.com/scholar?cites=8071303714277835929&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "8071303714277835929",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=8071303714277835929&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:mUTS6_YHA3AJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AmUTS6_YHA3AJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 11,
+          "link": "https://scholar.google.com/scholar?cluster=8071303714277835929&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "8071303714277835929",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=8071303714277835929&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "title": "CHAPTER FIVE: NEUROMUSCULOSKELETAL MOUSE HINDLIMB MODEL TO STUDY THE EFFECT OF NEURAL CHANGES IN INDIVIDUALS WITH …",
+      "result_id": "RrmMtc27_ikJ",
+      "link": "https://search.proquest.com/openview/6c19353c1b2eb90e4408306375c5df45/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y#page=109",
+      "snippet": "5.1 Background Neurodevelopmental disorders stem from irregularities in the nervous system during early brain development that lead to complications in function, behavior, and …",
+      "publication_info": {
+        "summary": "VL Volk, RM Hines, DJ Hines… - … AND FINAL READING …, 2022 - search.proquest.com",
+        "authors": [
+          {
+            "name": "RM Hines",
+            "link": "https://scholar.google.com/citations?user=0nCLyuUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0nCLyuUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0nCLyuUAAAAJ"
+          },
+          {
+            "name": "DJ Hines",
+            "link": "https://scholar.google.com/citations?user=QPZ7zP8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QPZ7zP8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QPZ7zP8AAAAJ"
+          }
+        ]
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=RrmMtc27_ikJ"
+      }
+    },
+    {
+      "position": 18,
+      "title": "Exploring phase–amplitude coupling from primary motor cortex-basal ganglia-thalamus network model",
+      "result_id": "2o-UQquT738J",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0893608022002015",
+      "snippet": "The purpose of this study is to develop a primary motor cortex (M1)-basal ganglia-thalamus model capable of reproducing the physiological phenomenon of exaggerated phase–…",
+      "publication_info": {
+        "summary": "Y Yu, F Han, Q Wang - Neural Networks, 2022 - Elsevier"
+      },
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=2o-UQquT738J",
+        "cited_by": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cites=9218749326016417754&as_sdt=80005&sciodt=0,11&hl=en&num=20",
+          "cites_id": "9218749326016417754",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80005&cites=9218749326016417754&engine=google_scholar&hl=en&num=20"
+        },
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:2o-UQquT738J:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3A2o-UQquT738J%3Ascholar.google.com%2F&start=20"
+      }
+    },
+    {
+      "position": 19,
+      "title": "Model simulations unveil the structure-function-dynamics relationship of the cerebellar cortical microcircuit",
+      "result_id": "aT9KOFtVUmQJ",
+      "type": "Html",
+      "link": "https://www.nature.com/articles/s42003-022-04213-y",
+      "snippet": "The cerebellar network is renowned for its regular architecture that has inspired foundational computational theories. However, the relationship between circuit structure, function and …",
+      "publication_info": {
+        "summary": "R De Schepper, A Geminiani, S Masoli… - Communications …, 2022 - nature.com",
+        "authors": [
+          {
+            "name": "S Masoli",
+            "link": "https://scholar.google.com/citations?user=qb8LxFwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qb8LxFwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qb8LxFwAAAAJ"
+          }
+        ]
+      },
+      "resources": [
+        {
+          "title": "nature.com",
+          "file_format": "HTML",
+          "link": "https://www.nature.com/articles/s42003-022-04213-y"
+        }
+      ],
+      "inline_links": {
+        "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=aT9KOFtVUmQJ",
+        "html_version": "https://www.nature.com/articles/s42003-022-04213-y",
+        "related_pages_link": "https://scholar.google.com/scholar?q=related:aT9KOFtVUmQJ:scholar.google.com/&scioq=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+        "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=related%3AaT9KOFtVUmQJ%3Ascholar.google.com%2F&start=20",
+        "versions": {
+          "total": 3,
+          "link": "https://scholar.google.com/scholar?cluster=7228934202157842281&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+          "cluster_id": "7228934202157842281",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&cluster=7228934202157842281&engine=google_scholar&hl=en&num=20"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "current": 2,
+    "previous": "https://scholar.google.com/scholar?start=0&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+    "next": "https://scholar.google.com/scholar?start=40&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+    "other_pages": {
+      "1": "https://scholar.google.com/scholar?start=0&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+      "3": "https://scholar.google.com/scholar?start=40&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1",
+      "4": "https://scholar.google.com/scholar?start=60&q=netpyne&hl=en&num=20&as_sdt=0,11&as_ylo=2021&as_vis=1"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 2,
+    "previous_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=0",
+    "previous": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=0",
+    "next_link": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=40",
+    "next": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=40",
+    "other_pages": {
+      "1": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=0",
+      "3": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=40",
+      "4": "https://serpapi.com/search.json?as_sdt=0%2C11&as_vis=1&as_ylo=2021&engine=google_scholar&hl=en&num=20&q=netpyne&start=60"
+    }
+  }
+}
