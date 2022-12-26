@@ -1,24 +1,20 @@
 #spider using Serp API.
 import requests
-try:
-    from keyfile import serpkey
-except:
-    print("missing serp API key")
+from keyfile import serp_key as key
 from serpapi import GoogleScholarSearch
 
-GoogleScholarSearch.SERP_API_KEY = serpkey
-search = GoogleScholarSearch({"q": "netpyne", "num": 20, "as_vis": 1, "as_ylo": 2021})
-results = search.get_dict()
-entries = results['organic_results']
-pubdata = []
+search_params = {'api_key': key}
+results = []
+GoogleScholarSearch.SERP_API_KEY = key
+search = GoogleScholarSearch({"q": "netpyne", "num": 20, "as_vis": 1, "as_ylo": 2021}).to_dict()
+results.append(search)
+other_pages = search['serpapi_pagination']['other_pages']
 
-for entry in entries:
-    d = {}
-    d['title'] = entry['title']
-    d['snippet'] = entry['snippet']
-    #resources = entry['resources']
-    clink = entry['inline_links']['serpapi_cite_link']
-#    rcite = requests.get(clink, params={'api_key': serpkey}) # -> costs 1 API call
-#    d['cite'] = rcite.json()
-    d['all'] = entry
-    pubdata.append(d)
+for page in other_pages[0:1]:
+    serp_link = other_pages[page]
+    search = requests.get(serp_link, params=search_params).to_dict()
+    results.append(search)
+
+for i, result in enumerate(results):
+    fptr = open("search%s.json", "w")
+    json.write()

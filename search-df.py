@@ -1,14 +1,33 @@
 import json
-import pandas as pd
+import pandas
+import requests
+from keyfile import serpkey
 
-#final note, beatifulsoup4 >> serpapi. will use bs4
 fptr = open("search0.json", 'r')
+
 results = json.load(fptr)
 
-df = []
-for result in results['organic_results']:
+fptr.close()
+
+s = []
+for result in results['organic_results'][0:1]:
     d = {}
     d['title']   = result['title']
     d['link']    = result['link']
     d['snippet'] = result['snippet']
-    pubinfo      = result['publication_info']['summary']
+    serplink     = result['inline_links']['serpapi_cite_link']
+    cite         = requests.get(serplink, params={'api_key': serpkey})
+    d['cite']        = cite.json()
+    d['serplink']    = serplink
+    s.append(pandas.Series(d))
+
+df = pandas.DataFrame(s)
+
+fptr = open('pub.csv', 'w')
+
+df.to_csv(fptr)
+
+fptr.close()
+
+
+
