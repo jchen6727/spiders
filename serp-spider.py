@@ -1,5 +1,6 @@
 #spider using Serp API.
 import requests
+import json
 from keyfile import serp_key as key
 from serpapi import GoogleScholarSearch
 
