@@ -5,6 +5,7 @@ use with json files produced by serp-spider.py to grab relevant citation data
 import json
 import pandas
 import requests
+
 from keyfile import serp_key as key
 
 search_params = {'api_key': key}
@@ -18,18 +19,20 @@ def json_to_csv( filename = "search0"):
         serplink = result['inline_links']['serpapi_cite_link']
         cite = requests.get(serplink, params=search_params).json()
         try:
-            citel = cite['citations'][4]['snippet'].split('.') #not all journals have vancouver citation
+            citev = cite['citations'][4]['snippet'].split('.') # vancouver citation TODO improve parsing
+            assert(citev[3]) # break to except if vancouver citation missing (assert fails)
         except:
-            citel = cite['citations'][0]['snippet'].
+            print("missing appropriate citation: %s" %(result['title']))
+            citev = ['NULL'] * 4
         s.append(
             pandas.Series(
                 {'Title': result['title'],
                  'Link': result['link'],
                  'Snippet': result['snippet'],
                  'cite': cite,
-                 'Authors': citel[0],
-                 'Journal': citel[2],
-                 'Year': citel[3],
+                 'Authors': citev[0],
+                 'Journal': citev[2],
+                 'Year': citev[3],
                  'serplink': serplink}
             )
         )

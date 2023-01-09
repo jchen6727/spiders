@@ -1,0 +1,8 @@
+missing citation: Modelagem de microcircuito neocortical explorando o modelo de rede de Potjans-Diesmann e neur�nios multicompartimentais
+missing citation: Pre-stimulus neuronal phase correlates of conscious visual perception in threshold stimuli detection tasks
+missing citation: Model descriptions in neuroscience: computational performance and collaboration
+missing citation: NEST Desktop, an Educational Application for Neuroscience
+missing citation: DEFENSE COMMITTEE AND FINAL READING APPROVALS
+missing citation: Neural response of a Neuron population: A mathematical modelling approach
+missing citation: Computational models of neurotransmission at cerebellar synapses unveil the impact on network computation
+missing citation: Sensing Local Field Potentials with a Directional and Scalable Depth Array: The DISC electrode
